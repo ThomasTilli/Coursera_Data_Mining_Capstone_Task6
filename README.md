@@ -4,3 +4,6 @@ To run the code unzip the zipped data file and set the path in the code accordin
 
 For this task a Kaggle like competition was used and I finaly got the highest score. As you can see from the code I used a logistic 
 regression classifier with elastic net penalty. 
+
+## Software Requirements
+In order to run the code you need Anaconda Python 2.7
